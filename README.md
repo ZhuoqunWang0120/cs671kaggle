@@ -1,6 +1,6 @@
 # cs671kaggle
 
-Kaggle project of CS671
+Kaggle project of CS671, coupon collection prediction track
 
 EDA: eda.ipynb
 
